@@ -1,0 +1,4 @@
+name: PreventCustomCrafting
+version: ${project.version}
+main: me.faun.preventcustomcrafting.PreventCustomCrafting
+api-version: 1.17
